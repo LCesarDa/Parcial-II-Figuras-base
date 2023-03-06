@@ -1,0 +1,11 @@
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\Parcial II Figuras base\Parcial II Figuras base\obj\Debug\Parcial II Figuras base.csproj.AssemblyReference.cache
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\Parcial II Figuras base\Parcial II Figuras base\obj\Debug\Parcial II Figuras base.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\Parcial II Figuras base\Parcial II Figuras base\obj\Debug\Parcial_II_Figuras_base.Properties.Resources.resources
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\Parcial II Figuras base\Parcial II Figuras base\obj\Debug\Parcial II Figuras base.csproj.GenerateResource.cache
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\Parcial II Figuras base\Parcial II Figuras base\obj\Debug\Parcial II Figuras base.csproj.CoreCompileInputs.cache
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\Parcial II Figuras base\Parcial II Figuras base\bin\Debug\Parcial II Figuras base.exe.config
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\Parcial II Figuras base\Parcial II Figuras base\bin\Debug\Parcial II Figuras base.exe
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\Parcial II Figuras base\Parcial II Figuras base\bin\Debug\Parcial II Figuras base.pdb
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\Parcial II Figuras base\Parcial II Figuras base\obj\Debug\Parcial II Figuras base.exe
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\Parcial II Figuras base\Parcial II Figuras base\obj\Debug\Parcial II Figuras base.pdb
+\\Mac\Home\Library\CloudStorage\OneDrive-FundacionUniversidaddelasAmericasPuebla\Graficación Y Videojuegos\Parcial II Figuras base\Parcial II Figuras base\obj\Debug\Parcial_II_Figuras_base.Form1.resources
